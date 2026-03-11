@@ -6,6 +6,15 @@ A professional, full-stack Human Resource Management System built with modern te
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen)
 
+## 🌐 Live Deployment
+
+**Access the live application here:**
+
+- 🖥️ **Frontend**: [https://lightweight-human-resource-manageme-phi.vercel.app/](https://lightweight-human-resource-manageme-phi.vercel.app/)
+- 🔧 **Backend API**: [https://lightweight-human-resource-management-0m03.onrender.com](https://lightweight-human-resource-management-0m03.onrender.com)
+- 📖 **API Documentation**: [https://lightweight-human-resource-management-0m03.onrender.com/docs](https://lightweight-human-resource-management-0m03.onrender.com/docs)
+- 📦 **GitHub Repository**: [https://github.com/Raj-Comet/lightweight-Human-Resource-Management-System](https://github.com/Raj-Comet/lightweight-Human-Resource-Management-System)
+
 ## 📋 Table of Contents
 
 - [Features](#features)
@@ -220,7 +229,15 @@ npm start
 
 ## 🌐 Deployment
 
-### Deploy Backend to Render
+### ✅ Live Deployment URLs
+
+Your application is already deployed and live!
+
+- **Frontend**: https://lightweight-human-resource-manageme-phi.vercel.app/
+- **Backend**: https://lightweight-human-resource-management-0m03.onrender.com
+- **API Docs**: https://lightweight-human-resource-management-0m03.onrender.com/docs
+
+### Deploy Backend to Render (For Your Own Setup)
 
 1. **Create Render Account**: Go to [render.com](https://render.com)
 2. **Create New Web Service**:
